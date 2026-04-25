@@ -200,8 +200,8 @@ This is a learning project. These gaps are intentional scope decisions, not over
 
 ## 📬 Connect
 
-**LinkedIn:** [ your link ]  
-**GitHub:** [ your link ]
+**LinkedIn:** [www.linkedin.com/in/shahid-sayed-311116209 ]  
+**GitHub:** [ https://github.com/shahid704/ai-log-intelligence-platform/ ]
 
 ---
 
